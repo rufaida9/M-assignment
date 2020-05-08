@@ -1,0 +1,171 @@
+body{
+  background-color: #f5f5f5;
+}
+nav{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+nav {
+  display: block;
+}
+img{
+  padding: 5px;
+  width: 20px;
+}
+.insta{
+  margin-bottom: 0px;
+  height: 20px;
+  width: 20px;
+}
+.whts{
+  margin-bottom: 0px;
+  height: 20px;
+  width: 20px;
+}
+
+.navi{
+  background-color: #327dba;
+}
+.mil{
+  display: inline;
+  padding-left: 400px;
+  padding-top: 100px;
+}
+.saylani{
+  height: 50px;
+  width: 200px;
+  padding-left: 150px;
+}
+.social{
+  padding-left: 150px;
+}
+.home{
+  padding-left: 200px;
+}
+
+.saylani2{
+  height: 500px;
+  width: 1500px;
+  padding-left: 10px;
+}
+.scroll{
+  background-color: white;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-left: 10px;
+  margin-top: -9px;
+}
+.news{
+  display: inline;
+  /* padding-left: 150px; */
+  margin-left: 170px;
+  background-color: #327dba;
+}
+
+.introduction{
+  display: inline;
+}
+.introduction h1{
+  color: #327dba;
+  margin: 0px;
+  padding: 0px;
+  font-size: 50px;
+  display:inline-block;
+}
+.introduction h1 span{
+
+  color: #32a852;
+  margin:0px;
+  padding: 0px;
+  display:inline-block;
+  box-sizing: border-box;
+}
+.introduction .intro{
+  padding: 0px;
+  margin: 0px;
+  margin-right: -10px;
+  color: #327dba;
+  padding-left: 500px;
+}
+.introduction .DUCTION{
+  padding: 0px;
+  margin: 0px;
+}
+
+.intro2{
+  height: 50px;
+  width: 50px;
+  padding-left: 660px;
+}
+
+.intro3{
+  text-align: left;
+  font-size: 18px;
+}
+
+.intro-para{
+  margin-left: 200px;
+  margin-right: 200px;
+}
+.parallex{
+  background-color: #316DC3;
+  
+}
+.icons1{
+  text-align: center;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  display: inline-block;
+  padding-left: 150px;
+}
+.icon2{
+  color:  rgb(0, 255, 0);
+}
+.icons2{
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  display: inline-block;
+  text-align: center;
+  
+}
+.icons3{
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  display: inline-block;
+  text-align: center;
+}
+.icons4{
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  display: inline-block;
+  text-align: center;
+}
+
+
+
+.icon-list li{
+  list-style-type: none;
+  display: inline-block;
+}
+
+
+li{
+  padding: 20px;
+  text-align: center;
+  color: white;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.parallex{
+  padding-left: 70px;
+}
+
+.facilities{
+  font-size: 20px;
+}
+
+.faci{
+  width: 50px;
+  height: 50px;
+}
